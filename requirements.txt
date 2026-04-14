@@ -7,7 +7,7 @@ tqdm
 matplotlib
 seaborn
 pillow
-# mediapipe
+mediapipe
 fastapi
 uvicorn
 numpy
